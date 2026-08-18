@@ -4,3 +4,4 @@
 3. i also like to be able to view it in different charts , for example log chart </br>
 4. I also LOVE to create the Tree structure of numbers . it goes Crazy . even maybe obsidian like </br>
 5. I wanna make it an experiment hub like . many tools to study this problem </br>
+6. I like to give the generated numbers , a set of numbers in general , and it would produce a music for me 
