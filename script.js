@@ -2,8 +2,13 @@ let myButton = document.getElementById("myButton")
 let myInput = document.getElementById("myInput")
 let myId = document.getElementById("myId")
 
-function calculate() {
+document.addEventListener("keydown", (event) => {
+    if (event.key === "Enter") {
+        calculate();
+    }
+});
 
+function calculate() {
     let myNum = Number(myInput.value);
     let myNewNum = [];
     while (myNum  > 1 ){
